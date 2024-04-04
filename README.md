@@ -1,2 +1,3 @@
 # bookbot
-# I am Andrew
+# BookBot is my first git project!
+
